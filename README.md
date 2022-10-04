@@ -54,6 +54,6 @@ to this project, with the lessons:
 
  * **Rocketseat**
 
-- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-lucianadiemert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianadiemert/)](https://www.linkedin.com/in/lucianadiemert/)
+- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-LucianaDiemert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianadiemert/)](https://www.linkedin.com/in/lucianadiemert/)
 
 
