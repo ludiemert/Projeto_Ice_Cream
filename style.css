@@ -49,6 +49,7 @@ main, footer {
     gap: 3.2rem;
     text-align: center;
     
+    /*animation: downtop 700ms 350ms reverse backwards; */
     background-color: var(--col-bg);
    
 }
@@ -75,6 +76,9 @@ header svg {
 
     width: 149;
     height: 149;
+    /*animation: eixoX 1300ms reverse backwards infinite;
+    opacity: 0.7; */
+
     animation: topo 2900ms 200ms backwards infinite;
     color: var(--col-h1);
      
@@ -150,7 +154,7 @@ header .title {
     
     height: 45rem;
     width: 32rem;
-    object-fit: cover;
+    object-fit: cover; /*adjust image size*/
     border-radius: 20px;
 
 }
@@ -172,23 +176,23 @@ header .title {
     right: 1.6rem;
     opacity: 1;
 
-    cursor: pointer;  
+    cursor: pointer;  /*hand over the element*/
     text-transform: uppercase; 
-    z-index: +1; 
+    z-index: +1;  /* the writing is on top of the figure */
 }
 
 
 .card1 img, .card2 img, .card3 img, .card4 img, .card5 img, .card6 img,
 h2
  {
-    transition: transform 200ms; 
+    transition: transform 200ms; /* the image smoothly returns to its size */
 } 
 
-/*---------HOVER NA IMAGEM ------------*/
+/*---------HOVER IN THE IMAGE ------------*/
 
 .card1 img:hover, .card2 img:hover, .card3 img:hover,.card4 img:hover, .card5 img:hover, .card6 img:hover
  {
-    transform: scale(1.1); 
+    transform: scale(1.1); /* the image enlarges on the screen */
     opacity: 0.7; 
     filter: brightness(1);
     transition-property: transform;
@@ -247,6 +251,9 @@ body {
 }
 
 
+
+/*---------@MEDIA - DESKTOP VERSION------------*/
+
 @media (min-width: 700px) { 
 
     main {
@@ -298,6 +305,8 @@ body {
 
 }
 
+
+/*---------@MEDIA - DESKTOP VERSION------------*/
 @media (min-width: 900px) {
 
     .page {
@@ -413,6 +422,9 @@ main h2, .card1, .card2, .card3, .card4, .card5, .card6, footer {
     animation: righttoleft 1000ms 000ms backwards;
 }
 
+    
+/*---------@KEYFRAMES------------*/
+/*---------Transitions when page loads ------------*/
 
 @keyframes topdown {
     0% {
@@ -427,6 +439,8 @@ main h2, .card1, .card2, .card3, .card4, .card5, .card6, footer {
     }
 }
 
+    
+/* top animation */
 @keyframes topo {
     0% {
         opacity: 0;
