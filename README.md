@@ -1,9 +1,8 @@
-# Projeto_Ice_Cream
-
-
+# Project_Ice_Cream
+  
+  Stage 03 of the Explorer Track, applying the knowledge acquired in HTML and CSS GRID, concepts and what was studied in Stage 2 Stage 3 apply to the design, animations and transitions in CSS.
+  
   Building a responsive mobile-first web page using the prototype layout available in figma.
-Reinforcing my knowledge of HTML and CSS GRID apply concepts and what was seen in
-the Step 2 Step 3 versions apply to the design, animations and transitions in CSS.
 
 
 -----
@@ -48,13 +47,28 @@ to this project, with the lessons:
 - [Design Figma - Space Cream Mobile](https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo?node-id=0:1)
 - [Design Figma - Space Cream Desktop](https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR?node-id=0:1)
 
--------
+
+-----
+
 
 ## ✒️ Authors
 
- * **Rocketseat**
+ **Rocketseat**
 
 - ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-lucianadiemert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianadiemert/)](https://www.linkedin.com/in/lucianadiemert/)
+
+
+
+-----
+
+
+
+## 🎁 Acknowledgements and dedications
+
+* Thank you Rocketseat team
+
+
+-----
 
 
 ### Contato
@@ -71,11 +85,6 @@ to this project, with the lessons:
 <br clear="left"/>
 
 
-------------------
-
-## 🎁 Acknowledgements and dedications
-
-* Thank you Rocketseat team
 
 
 
